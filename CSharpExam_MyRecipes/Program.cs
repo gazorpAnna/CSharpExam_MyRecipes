@@ -10,6 +10,7 @@ namespace CSharpExam_MyRecipes
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
         }
     }
 }
